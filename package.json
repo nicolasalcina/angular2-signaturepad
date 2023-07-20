@@ -1,6 +1,12 @@
 {
   "name": "angular2-signaturepad",
-  "version": "4.0.0",
+  "version": "16.0.2",
+  "homepage": "https://github.com/nicolasalcina/angular2-signaturepad",
+  "bugs": "https://github.com/nicolasalcina/angular2-signaturepad/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasalcina/angular2-signaturepad.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
