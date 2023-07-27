@@ -3,7 +3,7 @@ Angular 16 component for [szimek/signature_pad](https://www.npmjs.com/package/si
 just update angular versions See commit on GitHub for more
 
 ## Install
-`npm install angular2-signaturepad --save`
+`npm install angular16-signaturepad --save`
 
 ## Maintenance
 Will try to update once a year( on summer when there is less customer ;) ) every 2 versions of angular

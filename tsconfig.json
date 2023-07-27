@@ -17,8 +17,8 @@
     ],
     "paths": {
       "angular2-signaturepad": [
-        "dist/angular2-signaturepad/angular2-signaturepad",
-        "dist/angular2-signaturepad"
+        "dist/angular16-signaturepad/angular16-signaturepad",
+        "dist/angular16-signaturepad"
       ]
     },
     "useDefineForClassFields": false

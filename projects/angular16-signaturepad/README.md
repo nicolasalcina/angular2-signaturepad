@@ -3,7 +3,7 @@ Angular 16 component for [szimek/signature_pad](https://www.npmjs.com/package/si
 just update angular versions See commit on GitHub for more
 
 ## Install
-`npm install angular2-signaturepad --save`
+`npm install angular16-signaturepad --save`
 
 ## Maintenance
 Will try to update once a year( on summer when there is less customer ;) ) every 2 versions of angular
@@ -14,7 +14,8 @@ Will try to update once a year( on summer when there is less customer ;) ) every
 # angular2-signaturepad
 Angular 2 component for [szimek/signature_pad](https://www.npmjs.com/package/signature_pad).
 
-<< THIS IS NO LONGER IN USE BY OWNER. PROBLEMS CAN AND DO EXIST. PRs ARE SUPER WELCOME, BUT I CAN NOT IDENTIFY WHAT YOUR ISSUES ARE, NOR WILL I CHANGE THINGS BECAUSE ANGULAR HAS CHANGED IN THE YEARS SINCE I WROTE THIS >>
+# No Longer Maintained
+<< THIS IS NO LONGER IN USE BY OWNER. PROBLEMS CAN AND DO EXIST. PRs ARE SUPER WELCOME, BUT I CAN NOT IDENTIFY WHAT YOUR ISSUES ARE, NOR WILL I CHANGE THINGS BECAUSE ANGULAR HAS CHANGED IN THE YEARS SINCE I WROTE THIS. I DO NOT USE THIS, I CAN'T HELP YOU WITH YOUR PROBLEMS. >>
 
 ## Install
 `npm install angular2-signaturepad --save`
@@ -61,7 +62,7 @@ export class SignaturePadPage{
 
   @ViewChild(SignaturePad) signaturePad: SignaturePad;
 
-  private signaturePadOptions: Object = { // passed through to szimek/signature_pad constructor
+  signaturePadOptions: Object = { // passed through to szimek/signature_pad constructor
     'minWidth': 5,
     'canvasWidth': 500,
     'canvasHeight': 300
